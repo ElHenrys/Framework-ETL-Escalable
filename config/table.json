@@ -1,0 +1,29 @@
+{
+  "table":  
+  [
+    {
+      "ID": 0,
+      "SCHEMA": "entel",
+      "TABLE_NAME": "raw_genesys_tmo",
+      "DELETE_BY" : "[Inicio del intervalo]" 
+    },
+    {
+      "ID": 1,
+      "SCHEMA": "entel",
+      "TABLE_NAME": "raw_genesys_agentes",
+      "DELETE_BY" : "[Inicio del intervalo]" 
+    },
+    {
+      "ID": 2,
+      "SCHEMA": "entel",
+      "TABLE_NAME": "raw_genesys_trafico",
+      "DELETE_BY" : "[Inicio del intervalo]" 
+    },
+    {
+      "ID": 3,
+      "SCHEMA": "iberia",
+      "TABLE_NAME": "raw_genesys_logueos",
+      "DELETE_BY" : "[Interval Start]" 
+    }
+  ]
+}

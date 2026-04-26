@@ -1,0 +1,16 @@
+{
+  "id": 0,
+  "files": [
+    {
+      "id": 0,
+      "desc"            : "ruta dónde se deposita el file",
+      "PATH_ORIGIN"     : "C:/Users/Acost/Documents/Entornos/carga_data/",
+      "PATH_DESTINATION": "C:/Users/Acost/Documents/Entornos/carga_data/Process/",
+      "PATH_EXPORTED"   : "C:/Users/Acost/Documents/Entornos/carga_data/Exported/",
+      "NAME"            : "",      
+      "SHEET"           : "",      
+	  "TYPE_FILE"       :""
+    }
+  ]
+}
+

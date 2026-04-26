@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "procedures": [
+    {
+      "id": 0,
+      "desc": "Procedimiento que actualiza corte de indicadores",
+      "name_procedure": "EXEC [entel].[usp_actualizar_corte_genesys] "
+    },
+    {
+      "id": 1,
+      "desc": "Procedimiento que actualiza el reporte de logueos",
+      "name_procedure": "EXEC [iberia].[usp_actualizar_reporte_logueos]"
+    }
+  ]
+}

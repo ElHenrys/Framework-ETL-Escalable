@@ -1,0 +1,15 @@
+{
+  "database": 
+  [
+    {
+      "ID"          : 0,
+      "DESCRIPCION" : "BD PRODUCCION",
+      "HOST"        : "SQL_HOST",
+      "NAME"        : "SQL_DB_TEST",
+      "USER"        : "SQL_USER",
+      "PASSWORD"    : "SQL_PASS",
+      "DRIVER"      : "ODBC DRIVER 17 for SQL Server",	  
+      "PORT"        : ""
+    }
+  ]
+} 

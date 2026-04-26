@@ -1,0 +1,26 @@
+{
+    "proceso": {
+        "nombre": "JSON para el registro de errores",
+        "descripcion": "ETL para procesamiento de archivos CRC DIXSIS"
+    },
+    "database":[
+        {
+            "id": 0,
+            "DESCRIPCION" : "BD PRODUCCION",
+            "HOST"        : "SQL_HOST",
+            "NAME"        : "SQL_DB_TEST",
+            "USER"        : "SQL_USER",
+            "PASSWORD"    : "SQL_PASS",
+            "DRIVER"      : "ODBC DRIVER 17 for SQL Server",	  
+            "PORT"        : ""
+        }
+    ],
+    "table": [
+        {
+            "id": 0,
+            "desc": "Tabla de Logs",
+            "schema": "logs",
+            "table": "stg_logs_etls"
+        }
+    ]
+}
