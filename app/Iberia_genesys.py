@@ -11,7 +11,7 @@ import pandas as pd
 # Parametros Iniciales para Logger
 logger = ETLLogger(
     cliente="IBERIA",
-    servicio="ATENCIÓN AL CLIENTE"
+    servicio="VUELOS INTERNACIONALES"
 )
 
 def execute_step(step_number, step_function, *args, **kwargs):
