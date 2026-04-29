@@ -1,4 +1,4 @@
-# Plantilla ETL
+# Framework ETL Escalable
 
 Este proyecto es un framework estandarizado y modular construido en Python para automatizar procesos ETL (Extracción, Transformación y Carga) orientados a bases de datos Microsoft SQL Server. 
 
@@ -19,7 +19,7 @@ El sistema facilita la lectura de archivos planos (CSV, Excel, Parquet, HTML), s
 ## 📂 Estructura del Proyecto
 
 ```text
-plantilla_ETL/
+Framework-ETL-Escalable/
 ├── app/
 │   ├── util_function/       # Módulos core de la aplicación
 │   │   ├── module_read_files.py
